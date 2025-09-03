@@ -82,24 +82,27 @@ conda activate gaf_env
 
 ## 五、现场照片
 
-![alt text](assets/image-8.png)
+![alt text](assets/image-8.jpg)
 
 ![alt text](assets/image-9.png)
 
 ## 六、媒体报导
 
+![alt text](image.png)
+
+<!-- 
 <div style="display: flex; justify-content: space-between; gap: 16 px; align-items: stretch;">
 
-  <!-- 卡片 1 -->
+
   <div style="border:1px solid #eaeaea; border-radius:8px; padding:16px; width:45%; box-sizing: border-box; display: flex; flex-direction: column;">
     <a href="https://mp.weixin.qq.com/s/CkJv35DpV85Ugf_CsPwQtg" target="_blank" style="text-decoration:none; color:inherit; display: flex; flex-direction: column; height: 100%;">
       <img src="assets/001.png" alt="封面图" style="width:100%; border-radius:4px; max-height:160px; object-fit: contain;">
       <h3 style="margin-top:12px;">2025广美研究生毕业季｜「CO–EVO」智能体互动剧场上演未来图景</h3>
       <p style="color:gray; font-size:0.9em; margin-top:auto;">点击查看公众号原文</p>
     </a>
-  </div>
-
-  <!-- 卡片 2 -->
+  </div> 
+  
+ 
   <div style="border:1px solid #eaeaea; border-radius:8px; padding:16px; width:45%; box-sizing: border-box; display: flex; flex-direction: column;">
     <a href="https://newspaper.gzdaily.cn/h5/html5/2025-06/21/content_872_889486.htm?curr=" target="_blank" style="text-decoration:none; color:inherit; display: flex; flex-direction: column; height: 100%;">
       <img src="assets/image-3.png" alt="广州日报数字报封面" style="width:100%; border-radius:4px; max-height:160px; object-fit: contain;">
@@ -107,21 +110,20 @@ conda activate gaf_env
       <p style="color:gray; font-size:0.9em; margin-top:auto;">点击查看完整报纸内容</p>
     </a>
   </div>
-
 </div>
 
 <p></p>
 
 <div style="display: flex; justify-content: space-between; gap: 16 px; align-items: stretch;">
 
-  <!-- 卡片 3 -->
+
   <div style="border:1px solid #eaeaea; border-radius:8px; padding:16px; width:45%; box-sizing: border-box; display: flex; flex-direction: column;">
-    <img src="assets/image.png" alt="封面图" style="width:100%; border-radius:4px; max-height:160px; object-fit: contain;">
+    <img src="assets/image.jpg" alt="封面图" style="width:100%; border-radius:4px; max-height:160px; object-fit: contain;">
     <h3 style="margin-top:12px;">微博转发</h3>
     <p style="color:gray; font-size:0.9em; margin-top:auto;">来源：微博</p>
   </div>
 
-  <!-- 卡片 4 -->
+
   <div style="border:1px solid #eaeaea; border-radius:8px; padding:16px; width:45%; box-sizing: border-box; display: flex; flex-direction: column;">
     <a href="https://static.nfnews.com/content/202506/21/c11423577.html?colID=0&firstColID=3829&appversion=12400&from=weChatMessage&enterColumnId=&date=&layer=2" target="_blank" style="text-decoration:none; color:inherit; display: flex; flex-direction: column; height: 100%;">
       <img src="assets/image-4.png" alt="封面图" style="width:100%; border-radius:4px; max-height:160px; object-fit: contain;">
@@ -132,8 +134,8 @@ conda activate gaf_env
 
 </div>
 
-
+-->
 
 ## 七、团队合照
-![alt text](assets/image-1.png)
-![alt text](assets/image-2.png)
+![alt text](assets/image-1.jpg)
+![alt text](assets/image-2.jpg)
